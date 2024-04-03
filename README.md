@@ -12,23 +12,23 @@ I'm a Machine Learning Engineer from Ireland, currently based in Hong Kong.
 <!--START_SECTION-->
 📊 **My Skills/Setup** 
 
-```text
+```yaml
 🕑︎ Time Zone: Asia/Hong Kong
 
 💬 Programming Languages: 
-Python
-C/C++
-Bash
-UML/SysML
+- Python
+- C/C++
+- Bash
+- UML/SysML
 
 🔥 Editors: 
-VS Code
-Vim
-Sublime Text3
+- VS Code
+- Vim
+- Sublime Text3
 
 💻 Operating System: 
-Windows + WSL
-Linux + I3 Tiling WM
+- Windows + WSL
+- Linux + I3 Tiling WM
 ```
 
 <!--END_SECTION-->
