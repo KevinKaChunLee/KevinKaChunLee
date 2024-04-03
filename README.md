@@ -18,7 +18,7 @@ I'm a Machine Learning Engineer from Ireland, currently based in Hong Kong.
 Python
 C/C++
 Bash
-UML / SysML
+UML/SysML
 
 🔥 Editors: 
 VS Code
